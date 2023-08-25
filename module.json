@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "tildekey",
+    "Summary": "Fixes ~ key on UK based macbook keyboards",
+    "Version": "1.0",
+    "Source": "fixKeyboardTilde.mx",
+    "Dependencies": {
+      "Optional": [],
+      "Required": [],
+      "Platform": ["darwin"]
+    }
+  }
+]
